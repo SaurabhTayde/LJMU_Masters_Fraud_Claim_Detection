@@ -50,10 +50,7 @@ The project followed a structured machine learning methodology:
 
 *   **Accuracy:** 0.8033
 *   **Balanced Accuracy:** 0.7377
-*   **Sensitivity (Recall):** 0.6081
 *   **Specificity:** 0.8673
-*   **Precision:** 0.6000
-*   **F1 Score:** 0.6040
 
 ## Recommendations
 
