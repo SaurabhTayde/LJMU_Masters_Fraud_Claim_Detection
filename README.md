@@ -66,19 +66,14 @@ Based on the project findings, the tuned Random Forest model is recommended for 
 *   seaborn
 *   statsmodels
 *   imblearn
-
-## Repository Structure
-
-*   `README.md`: This file.
-*   `[Your_Notebook_Name].ipynb`: The Jupyter Notebook containing the full analysis and code implementation. (Replace `[Your_Notebook_Name]` with the actual file name).
-*   *(Optional)* `data/`: Folder containing the dataset file(s).
+  
 
 ## How to Run
 
-1.  Clone this repository: `git clone [repository-url]`
+1.  Clone this repository: `git clone https://github.com/SaurabhTayde/LJMU_Masters_Fraud_Claim_Detection`
 2.  Navigate to the repository directory.
 3.  Ensure you have the necessary libraries installed (`pip install pandas numpy scikit-learn matplotlib seaborn statsmodels imblearn`).
-4.  Open and run the Jupyter Notebook (`[Your_Notebook_Name].ipynb`) to execute the analysis steps.
+4.  Open and run the Jupyter Notebook to execute the analysis steps.
 
 ## Authors:
 1. Saurabh Tayde
